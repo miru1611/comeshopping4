@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>comeshopping.com</title>
+	<style>
+		.font arial { font-family: Arial;}
+		.font_roman { font-family: 'Times New Roman';}
+		div{
+			width: 150px;
+			height: 30px;
+			border: 5px solid navy;
+			border-radius: 10px;
+			}
+		.search-box{
+			position: absolute;
+			top: 5%; left: 40%;
+			width: 250px;
+			height: 40px:
+			border-radius: 10px;
+			border: 10px solid navy;
+		}
+		.search-txt{
+			font-size:20px;
+		}
+		table td{
+			border:1px solid white;
+		}
+	</style>
+</head>
+<body>
+	<h1>comeshopping</h1>
+
+	<center>
+	<div class="search-box">
+		<input type="text" class="search-txt">
+	</div>
+	</center>
+
+	<img src="nba.png" alt="nba" width="100" style="position: absolute; top:2.5%; right:5%;"  />
+	<table border="1" style="position:absolute;top:20%;width: 100%;height:50px;">
+		<tbody>
+			<tr style="height:40; background:navy; color:white">
+				<ul>
+					<td align="center"><li><a href=eastconference.html>East Conference</a></li></td>
+					<td align="center"><li><a href=westconference.html>West Conference</a></li></td>
+				</ul>
+
+			</tr>
+		</tbody>
+	</table>
+	<table border="1"style="position:absolute;top:30%;width: 100%;height:50px;">
+		<tbody>
+			<tr>
+				<td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2554452809&NaPm=ct=k1umk25k|ci=f23769027c5bf1aea7178e31bee7ad00e7b49cad|tr=slsl|sn=17703|hk=69d4a46a447541e4b875fe7def72ec1601721b07&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="gsw.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/geroshop/products/4531102637?NaPm=ct%3Dk1umm488%7Cci%3Db4d3508a61298270eb3ff5cd72388d0858fa2c62%7Ctr%3Dslsl%7Csn%3D206180%7Cic%3D%7Chk%3Dc90ff2a7766e39245ee2431a747e044992db85d3"><img src="houston.png" width="100"></a></td>			
+				<td align="center"><a href="http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B702319341&frm3=V2"><img src="lal.png" width="100"></a></td>
+				<td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2467047110&NaPm=ct=k1umsrfc|ci=1a02fb4110647059bed8c762e45e36163f82f5f5|tr=slsl|sn=17703|hk=2d40f483b45d94189dbd0699f5f73fb9242d2e3f&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="lac.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/supersoccer/products/4646317023?NaPm=ct%3Dk1umuovc%7Cci%3D1ee2e3c541b27618e5951ee3917287fc66adf81d%7Ctr%3Dslsl%7Csn%3D713341%7Cic%3D%7Chk%3D417b005f25c8fb66f672ecb0c9829a1c242502c5"><img src="sas.png" width="100"></a></td>
+			</tr>
+			<tr>
+				<td align="center"><a href="https://smartstore.naver.com/haesungsports/products/3835811608?NaPm=ct%3Dk1umx75c%7Cci%3D7251867969f59a337eb3c091d2a9b5b8c2a39242%7Ctr%3Dslsl%7Csn%3D575384%7Cic%3D%7Chk%3D41a6ca58b3057ccd7e541605625968fe15359b69"><img src="okc.png" width="100"></a></td>
+				<td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2434796271&NaPm=ct=k1umzd2w|ci=9cc0932ad9b7f2267aaa534edd197aeeddd47150|tr=slsl|sn=17703|hk=b280817fc727c444cde2bb877fa2fb06f7d2d9f9&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="pot.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/espn/products/4446109715?NaPm=ct%3Dk1un0r8g%7Cci%3D7741694308211867ac7e4d79da1407924513bcd1%7Ctr%3Dslsl%7Csn%3D544148%7Cic%3D%7Chk%3D453159f434da920fc254fda5ed88c0e7cbf04815"><img src="den.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/supersoccer/products/4645321362?NaPm=ct%3Dk1un1ttc%7Cci%3Db9a42fd09bb35b4046876214f54725669e498794%7Ctr%3Dslsl%7Csn%3D713341%7Cic%3D%7Chk%3D88b1107697f07edbc17c6e325215a4b891e68ce1"><img src="utah.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/tigermarket/products/2781767222?NaPm=ct%3Dk1un2tb4%7Cci%3D595c3edabdd9782ded38899fce9f97c28f9c139a%7Ctr%3Dslsl%7Csn%3D257055%7Cic%3D%7Chk%3D63d1801b3af47bd823953b1b68291661051ab1d9"><img src="wolves.png" width="100"></a></td>
+			</tr>
+			<tr>
+				<td align="center"><a href="https://smartstore.naver.com/supersoccer/products/4646330822?NaPm=ct%3Dk1un3yz4%7Cci%3Da5949bbbc03b006502e0b346bf368735f0f17603%7Ctr%3Dslsl%7Csn%3D713341%7Cic%3D%7Chk%3Dff076d15485668caa659924770400c86bfc4b668"><img src="now.png" width="100"></a></td>
+				<td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2354778687&NaPm=ct=k1un5kug|ci=8346152974e21fe597ef91c541c2bd00cd9e3a70|tr=slct|sn=17703|hk=7fa0a95f9b25b0de89e4dcbf96142ade78480752&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="sac.png" width="100"></a></td>
+				<td align="center"><a href="https://www.sportive.co.kr/mall/view/goodsNo/1041623?NaPm=ct%3Dk1un8fgw%7Cci%3D8f935261d2804599b4683020a61f926f4bedceb9%7Ctr%3Dslsl%7Csn%3D241981%7Chk%3D03abbd34af08abbebd8e34946220add3f88c5a54"><img src="mem.png" width="100"></a></td>
+				<td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2355184595&NaPm=ct=k1un9ue8|ci=cc8a23c293e2e17810c4ab892640c1d7582218c9|tr=slct|sn=17703|hk=7f5132119421b3e8cefb94850a98397675bbf7de&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="mav.png" width="100"></a></td>
+				<td align="center"><a href="https://smartstore.naver.com/tigermarket/products/3714524770?NaPm=ct%3Dk1unbk4g%7Cci%3D9dc5793037c16052c71eec0726f783ad44b72514%7Ctr%3Dslsl%7Csn%3D257055%7Cic%3D%7Chk%3D4d5897363319097c1bbf7261e3d50e2064af3338"><img src="suns.png" width="100"></a></td>
+			</tr>
+
+</body>
+</html>

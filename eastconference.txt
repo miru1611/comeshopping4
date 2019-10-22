@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>comeshopping.com</title>
+	<style>
+		.font arial { font-family: Arial;}
+		.font_roman { font-family: 'Times New Roman';}
+		div{
+			width: 150px;
+			height: 30px;
+			border: 5px solid navy;
+			border-radius: 10px;
+			}
+		.search-box{
+			position: absolute;
+			top: 5%; left: 40%;
+			width: 250px;
+			height: 40px:
+			border-radius: 10px;
+			border: 10px solid navy;
+		}
+		.search-txt{
+			font-size:20px;
+		}
+	
+		table td{
+			border:1px solid white;
+		}
+	</style>
+</head>
+<body>
+	<h1>comeshopping</h1>
+
+	<center>
+	<div class="search-box">
+		<input type="text" class="search-txt">
+	</div>
+	</center>
+
+	<img src="nba.png" alt="nba" width="100" style="position: absolute; top:2.5%; right:5%;"  />
+	<table border="1" style="position:absolute;top:20%;width: 100%;height:50px;">
+		<tbody>
+			<tr style="height:40; background:navy; color:white">
+				<ul>
+					<td align="center"><li><a href=eastconference.html>East Conference</a></li></td>
+					<td align="center"><li><a href=westconference.html>West Conference</a></li></td>
+				</ul>
+			</tr>
+		</tbody>
+	</table>
+	<table border="1" style="position:absolute;top:30%;width: 100%;height:50px;">
+               <tbody>
+                          <tr>
+                            <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2466791305&NaPm=ct=k1unff0g|ci=7aeade0464aac3d9b0b82b8390f060ca1cb2b162|tr=slsl|sn=17703|hk=225dc76fdd4f497fdd49951bb7cf820ed8340876&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="mil.png"width="100"></a></td>
+                           <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2524050938&NaPm=ct=k1unh9dc|ci=9637cfcab9b203faa0f6a857a868fdea98492bfe|tr=slsl|sn=17703|hk=96ee2850b85d3864792dfc4a8a1d1f34d8f93a90&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="boston.png"width="100"></a></td>
+                           <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2465353629&NaPm=ct=k1unoz5c|ci=21f1912390ba7cd658b44d6565b2645ea83ddb91|tr=slsl|sn=17703|hk=033e6bc91ed79300f51862e584a115af08a702a2&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="chi.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/espn/products/4615009365?NaPm=ct%3Dk1unqa7s%7Cci%3Dcbca2786c668da7beb5febbccaee59650a18959b%7Ctr%3Dslsl%7Csn%3D544148%7Cic%3D%7Chk%3D8f62dc8a9a1686f8c9ef1ffeb9ec123da5d602f4"><img src="tor.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/tue8th/products/4552620330?NaPm=ct%3Dk1unsg5c%7Cci%3Df23bf69e89f38b88a051acbb28d1cf897714c54e%7Ctr%3Dslsl%7Csn%3D848266%7Cic%3D%7Chk%3Dcf01d4894ae4450752c4138479c9dd2f0b62f3e4"><img src="ind.png"width="100"></a></td>
+                          </tr>
+
+                         </tr>
+                           <td align="center"><a href="https://smartstore.naver.com/tigermarket/products/2781639809?NaPm=ct%3Dk1untb0g%7Cci%3D48b88416b051c9d6f7b5798c572ebf0fc7a5271a%7Ctr%3Dslsl%7Csn%3D257055%7Cic%3D%7Chk%3Db2e7301c3f1472f22749038546df1740c230def5"><img src="det.png"width="100"></a></td>
+                           <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2467049917&NaPm=ct=k1unvnw0|ci=026709c6c7b68ce757a858ba47ddd988921f8539|tr=slsl|sn=17703|hk=70893641fadd549d2d9bef7d7230d086c86aa3d6&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="orl.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/tigermarket/products/2745891586?NaPm=ct%3Dk1unwtk0%7Cci%3Df4e4685110864180be0053c056e05aff87570355%7Ctr%3Dslsl%7Csn%3D257055%7Cic%3D%7Chk%3Dca2922d518bf00b329a08777e6dbf97a25fce63c"><img src="was.png"width="100"></a></td>
+                           <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2355191692&NaPm=ct=k1uo0eew|ci=9e6903d787231342316f64c11cdf2e5092ab4022|tr=slsl|sn=17703|hk=ab964d5bc1a3506d32c588e2a7241ac0e084c2cc&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="newyork.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/espn/products/4366543982?NaPm=ct%3Dk1uo1hrk%7Cci%3D9954b22f4e91231c6bc30ef0661d65263e5ef44d%7Ctr%3Dslsl%7Csn%3D544148%7Cic%3D%7Chk%3Dddfb00b026f6913a92ebeae3f06197cfab44270e"><img src="mia.png"width="100"></a></td>
+                        </tr>
+         
+                         <tr>
+                           <td align="center"><a href="https://search.shopping.naver.com/detail/lite.nhn?nv_mid=20709107178&cat_id=50005249&frm=NVSHBRD&query=%EB%B8%8C%EB%A3%A8%ED%81%B4%EB%A6%B0+%EB%84%A4%EC%B8%A0+%EC%A0%B8%EC%A7%80&NaPm=ct%3Dk1uo2su0%7Cci%3D854c911f7f96d99268c1c4bc3e6a3c6bc2d81e39%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D9a0b13e9ac5eed5fcc27948e59cf759f693018be"><img src="bro.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/espn/products/4650435117?NaPm=ct%3Dk1uo3efs%7Cci%3D85bdaf2b2fbea9d594324c6fa3566e0a11d1e7ef%7Ctr%3Dslsl%7Csn%3D544148%7Cic%3D%7Chk%3D7781f77968c6518a9113a602d7ad276225f66eff"><img src="atl.png"width="100"></a></td>
+                           <td align="center"><a href="https://www.nike.com/kr/ko_kr/t/men/ap/basketball/864463-428/0LAK6M/cha-m-nk-swgmn-jsy-road?utm_source=NaverSP_pc&utm_medium=SP&cp=kr_pf_sheg_nvsp_pc&ctnakey=03-1015-10264-123395&NaPm=ct%3Dk1uo47rc%7Cci%3D437b7961920cce00aef88f3c69e4d0ccbc6c0769%7Ctr%3Dslsl%7Csn%3D232345%7Chk%3Da80615301b66306d6a447fd95b060aa18d7c720d"><img src="cha.png"width="100"></a></td>
+                           <td align="center"><a href="https://smartstore.naver.com/shoebymin00/products/4681075531?NaPm=ct%3Dk1uo5prs%7Cci%3Da2fef8ab073911e13f6d2cde7473dd6018c87a18%7Ctr%3Dslsl%7Csn%3D913839%7Cic%3D%7Chk%3Deba2b1a3a37838ce521848fa023481ad3845af91"><img src="cle.png"width="100"></a></td>
+                           <td align="center"><a href="http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2524928668&NaPm=ct=k1uo6j3c|ci=d4bd1f742d1450b49058a14d3309de7b15d441de|tr=slsl|sn=17703|hk=b1e64b45f89de5f58e7d81f0747ca04d7a2fdd2d&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3"><img src="phi.png"width="100"></a></td>
+                        </tr>
+	</tbody>
+</table>
+       
+                                    
+	
+</body>
+</html>
